@@ -1,0 +1,7 @@
+
+.el-menu--horizontal>.el-submenu.is-active .el-submenu__title{
+    border-bottom: none;
+}
+.el-carousel__container{
+    height: 600px;
+}
